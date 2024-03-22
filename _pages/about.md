@@ -2,21 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+[comment]: <> (subtitle: <a href='#'>Affiliations</a>. PhD student at Electrical and Computer Engineering Department at Carnegie Mellon University)
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
+  image_circular: true # crops the image to make it circular
+
+  [comment]: <>
+  (more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your City, State 12345</p>)
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+Hi, I'm a fourth year PhD in Electrical and Computer Engineering at Carnegie Mellon University, advised by Prof. Yorie Nakahira. Prior to joining Carnegie Mellon, I obtained my Bachelor degree at Tsinghua University, advised by Prof. Gao Huang and Yilin Mo. My reseach interests include safety-critical control, physics-informed learning, stochastic systems and robotics.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
