@@ -21,5 +21,3 @@ My reseach interests include safety-critical control, physics-informed learning,
 **Contact:** zhuoyuaw [at] andrew.cmu.edu
 
 **Follow:** [Google Scholar](https://scholar.google.com/citations?user=O46T3uUXCH4C&hl=en) | [jacobwang925](https://github.com/jacobwang925)
-
-[![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
