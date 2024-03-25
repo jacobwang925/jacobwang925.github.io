@@ -19,6 +19,9 @@ Hi, I'm a fourth year PhD in Electrical and Computer Engineering at [Carnegie Me
 My reseach interests include safety-critical control, physics-informed learning, stochastic systems and robotics.
 
 **Contact:** zhuoyuaw [at] andrew.cmu.edu
+
 **Follow:** [Google Scholar](https://scholar.google.com/citations?user=O46T3uUXCH4C&hl=en) | [jacobwang925](https://github.com/jacobwang925)
 
-<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
