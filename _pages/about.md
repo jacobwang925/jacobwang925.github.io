@@ -20,7 +20,7 @@ My reseach interests include safety-critical control, physics-informed learning,
 
 <strong>Contact: </strong> <a href="mailto:zhuoyuaw@andrew.cmu.edu">zhuoyuaw [at] andrew.cmu.edu</a>  
 <strong>Follow: </strong>
-<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar">
+<a href="https://scholar.google.com/citations?user=O46T3uUXCH4C" target="_blank" title="Google Scholar">
     <i class="ai ai-google-scholar"></i> Google Scholar</a>
 <strong> | </strong>
 <a href="https://github.com/jacobwang925" target="_blank" title="GitHub">
