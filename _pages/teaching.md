@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+CMU [18-475 Autonomous Control Systems](https://courses.ece.cmu.edu/18475) (Spring 2023). Instructor: Prof. [Yorie Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html).
+
+CMU [18-370 Fundamentals of Control](https://courses.ece.cmu.edu/18370) (Fall 2023). Instructor: Prof. [Yorie Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html).
