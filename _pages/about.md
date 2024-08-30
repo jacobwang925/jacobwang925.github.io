@@ -23,7 +23,7 @@ My research interests include safety-critical control, physics-informed learning
 <a href="https://scholar.google.com/citations?user=O46T3uUXCH4C" target="_blank" title="Google Scholar">
     <i class="ai ai-google-scholar"></i> Google Scholar</a>
 <strong> | </strong>
-<a href="https://www.linkedin.com/in/zhuoyuan-jacob-wang/" target="_blank" title="LinkedIn">
+<a href="https://www.linkedin.com/in/zhuoyuan-jacob-wang" target="_blank" title="LinkedIn">
     <i class="fab fa-linkedin"></i> LinkedIn</a>
 <strong> | </strong>
 <a href="https://github.com/jacobwang925" target="_blank" title="GitHub">
