@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"[Neural Spline Operators for Risk Quantification in Stochastic Systems](https://arxiv.org/abs/2508.20288)" accepted at CDC 2025!
+Our paper "[Neural Spline Operators for Risk Quantification in Stochastic Systems](https://arxiv.org/abs/2508.20288)" is accepted at CDC 2025!
