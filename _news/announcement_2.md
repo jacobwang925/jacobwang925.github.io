@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have completed my Thesis Prospectus, titled "Bridging Physics and Learning: Safe and Efficient Control Systems with Theoretical Guarantees"!
+I completed my Thesis Prospectus, titled *Bridging Physics and Learning: Safe and Efficient Control Systems with Theoretical Guarantees*!
