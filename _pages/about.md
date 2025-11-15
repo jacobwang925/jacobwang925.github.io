@@ -28,13 +28,12 @@ My research interests include safety-critical control, physics-informed learning
 <strong> | </strong>
 <a href="https://github.com/jacobwang925" target="_blank" title="GitHub">
     <i class="fab fa-github"></i> jacobwang925</a>
-<br><br>
+<br>
 
 <p style="color:red; font-weight:bold;">
     I'm on the 2025 – 2026 job market!
 </p>
 
-<br>
 
 My research agenda is centered on **theoretically grounded safe and efficient control systems via integration of physics and learning**. My research philosophy is to leverage physics model structure to enable learning-based control methods with high efficiency and theoretical guarantees. The key thrusts of my research include:
 
