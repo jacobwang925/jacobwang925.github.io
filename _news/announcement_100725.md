@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "[Generalizable Physics-Informed Learning for Stochastic Safety-Critical Systems](https://arxiv.org/abs/2407.08868)" was accepted by IEEE Transactions on Automatic Control (TAC)!
+Our paper "[Generalizable Physics-Informed Learning for Stochastic Safety-Critical Systems](https://arxiv.org/abs/2407.08868)" was accepted to IEEE Transactions on Automatic Control (TAC)!
