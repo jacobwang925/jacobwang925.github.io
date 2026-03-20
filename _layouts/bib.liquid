@@ -2,9 +2,9 @@
 ---
 <div class="row">
   {% if site.enable_publication_thumbnails %}
-  <div class="col-12 col-sm-2 pb-3">
+  <div class="col-12 col-sm-3 pb-3">
     {% if entry.abbr %}
-    <div class="abbr">
+    <div class="abbr mb-2">
       {% if site.data.venues[entry.abbr] %}
         {% assign venue_style = null %}
         {% if site.data.venues[entry.abbr].color != blank %}
@@ -29,17 +29,17 @@
 
     {% if entry.preview %}
       {% if entry.preview contains '://' %}
-        <img class="preview z-depth-1 rounded w-100 mw-100 mt-2" src="{{ entry.preview }}" alt="{{ entry.preview }}">
+        <img class="preview z-depth-1 rounded w-100 mw-100" src="{{ entry.preview }}" alt="{{ entry.preview }}">
       {% else %}
         {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-        {% include figure.liquid loading="eager" path=entry_path sizes="1000px" class="preview z-depth-1 rounded w-100 mw-100 mt-2" avoid_scaling=false zoomable=false alt=entry.preview %}
+        {% include figure.liquid loading="eager" path=entry_path sizes="1000px" class="preview z-depth-1 rounded w-100 mw-100" avoid_scaling=false zoomable=false alt=entry.preview %}
       {% endif %}
     {% endif %}
   </div>
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-9{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
