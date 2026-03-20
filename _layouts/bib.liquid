@@ -13,7 +13,7 @@
           {% if site.data.venues[entry.abbr].url %}
             <a href="{{ site.data.venues[entry.abbr].url }}">
               <abbr
-                class="badge rounded-pill"
+                class="badge rounded w-100"
                 {% if venue_style %}
                   {{ venue_style }}
                 {% endif %}
@@ -23,7 +23,7 @@
             </a>
           {% else %}
             <abbr
-              class="badge rounded-pill"
+              class="badge rounded w-100"
               {% if venue_style %}
                 {{ venue_style }}
               {% endif %}
@@ -32,7 +32,7 @@
             </abbr>
           {% endif %}
         {% else %}
-          <abbr class="badge rounded-pill">{{ entry.abbr }}</abbr>
+          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       </div>
     {% endif %}
@@ -47,7 +47,7 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes="200px"
+            sizes="1000px"
             class="preview z-depth-1 rounded"
             zoomable=false
             alt=entry.preview
