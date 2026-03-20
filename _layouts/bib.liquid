@@ -2,9 +2,9 @@
 ---
 <div class="row">
   {% if site.enable_publication_thumbnails %}
-  <div class="col-12 col-sm-3 pb-3">
+  <div class="col-12 col-sm-3 pb-3 d-flex flex-column align-items-stretch">
     {% if entry.abbr %}
-    <div class="abbr mb-2">
+    <div class="abbr w-100">
       {% if site.data.venues[entry.abbr] %}
         {% assign venue_style = null %}
         {% if site.data.venues[entry.abbr].color != blank %}
@@ -12,27 +12,27 @@
         {% endif %}
         {% if site.data.venues[entry.abbr].url %}
           <a href="{{ site.data.venues[entry.abbr].url }}" class="d-block w-100">
-            <abbr class="badge rounded w-100 d-block" {% if venue_style %} {{ venue_style }} {% endif %} >
+            <abbr class="badge rounded w-100 m-0" {% if venue_style %} {{ venue_style }} {% endif %} style="display: block;">
               {{ entry.abbr }}
             </abbr>
           </a>
         {% else %}
-          <abbr class="badge rounded w-100 d-block" {% if venue_style %} {{ venue_style }} {% endif %} >
+          <abbr class="badge rounded w-100 m-0" {% if venue_style %} {{ venue_style }} {% endif %} style="display: block;">
             {{ entry.abbr }}
           </abbr>
         {% endif %}
       {% else %}
-        <abbr class="badge rounded w-100 d-block">{{ entry.abbr }}</abbr>
+        <abbr class="badge rounded w-100 m-0" style="display: block;">{{ entry.abbr }}</abbr>
       {% endif %}
     </div>
     {% endif %}
 
     {% if entry.preview %}
       {% if entry.preview contains '://' %}
-        <img class="preview z-depth-1 rounded w-100 mw-100 mt-2 d-block" src="{{ entry.preview }}" alt="{{ entry.preview }}">
+        <img class="preview z-depth-1 rounded w-100 m-0 mt-2" src="{{ entry.preview }}" alt="{{ entry.preview }}" style="object-fit: cover;">
       {% else %}
         {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-        {% include figure.liquid loading="eager" path=entry_path sizes="1000px" class="preview z-depth-1 rounded w-100 mw-100 mt-2 d-block" avoid_scaling=false zoomable=false alt=entry.preview %}
+        {% include figure.liquid loading="eager" path=entry_path sizes="1000px" class="preview z-depth-1 rounded w-100 m-0 mt-2" avoid_scaling=false zoomable=false alt=entry.preview %}
       {% endif %}
     {% endif %}
   </div>
