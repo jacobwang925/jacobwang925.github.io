@@ -14,9 +14,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm a final year PhD in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Yorie Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html). Prior to joining CMU, I obtained my Bachelor degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Yilin Mo](https://yilinmo.github.io/). 
+Hi, I'm a postdoctoral researcher in Computing and Mathematical Sciences at [California Institute of Technology](https://www.caltech.edu/), working with Prof. [Anima Anandkumar](https://tensorlab.cms.caltech.edu/users/anima/). I received my Ph.D. in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Yorie Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html). I earned my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Yilin Mo](https://yilinmo.github.io/).
 
-My research interests include safety-critical control, physics-informed learning, stochastic systems and robotics.
+My research interests lie at the intersection of control theory and scientific machine learning, with a focus on safety-critical control, physics-informed learning, stochastic systems and robotics.
 
 <strong>Contact: </strong> <a href="mailto:zhuoyuaw@andrew.cmu.edu">zhuoyuaw [at] andrew.cmu.edu</a>  
 <strong>Follow: </strong>
@@ -37,7 +37,7 @@ My research interests include safety-critical control, physics-informed learning
 </p>
 -->
 
-
+<!--
 My research agenda is centered on **theoretically grounded safe and efficient control systems via integration of physics and learning**. My research philosophy is to leverage physics model structure to enable learning-based control methods with high efficiency and theoretical guarantees. The key thrusts of my research include:
 
 1. **Myopically verifiable long-term safe control under uncertainty:** proposing ‘forward-invariance’ on probability space, and designing one-step verifiable real-time online control strategies to guarantee long-term safety, despite unbounded noise, unknown system dynamics and latent risk from human interaction / occlusions. ([ACC 22](https://ieeexplore.ieee.org/document/9867675), [IV 22](https://ieeexplore.ieee.org/document/9827264), [IFAC 23](https://www.sciencedirect.com/science/article/pii/S2405896323006821), [ICRA 24](https://ieeexplore.ieee.org/document/10610860), [TAC 26](https://arxiv.org/abs/2404.16883))
@@ -45,3 +45,4 @@ My research agenda is centered on **theoretically grounded safe and efficient co
 2. **Physics-informed optimal and safe control:** deriving mathematical structure to connect risk probabilities and value functions in stochastic systems with partial differential equations (PDEs), and designing physics-informed learning framework for efficient estimation. ([L4DC 23](https://proceedings.mlr.press/v211/wang23a/wang23a.pdf), [AAAI 24](https://arxiv.org/abs/2312.10594), [TAC 25](https://arxiv.org/abs/2407.08868))
 
 3. **Scalable and generalizable learning for control:** developing dimensionality reduction techniques, efficient representation structures, and neural operator learning mechanisms for learning system designs that are scalable to high dimensions and are generalizable to varying system instances. ([L-CSS 23](https://ieeexplore.ieee.org/document/10005133), [AAAI 24](https://arxiv.org/abs/2312.10594), [CDC 25](https://arxiv.org/abs/2508.20288))
+-->
