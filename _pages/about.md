@@ -18,7 +18,7 @@ Hi, I'm a postdoctoral researcher in Computing and Mathematical Sciences at [Cal
 
 My research interests lie at the intersection of control theory and scientific machine learning, with a focus on safety-critical control, physics-informed learning, stochastic systems and robotics.
 
-<strong>Contact: </strong> <a href="mailto:zhuoyuaw@andrew.cmu.edu">zhuoyuaw [at] andrew.cmu.edu</a>  
+<strong>Contact: </strong> <a href="mailto:jacobw@caltech.edu">jacobw [at] caltech.edu</a> 
 <strong>Follow: </strong>
 <a href="https://scholar.google.com/citations?user=O46T3uUXCH4C" target="_blank" title="Google Scholar">
     <i class="ai ai-google-scholar"></i> Google Scholar</a>
