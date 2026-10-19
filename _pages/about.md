@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: bio_26.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular or not
 
 news: true # includes a list of news items
 posts: false # includes a list of posts items
