@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm a postdoctoral researcher in Computing and Mathematical Sciences at [California Institute of Technology](https://www.caltech.edu/), working with Prof. [Anima Anandkumar](https://tensorlab.cms.caltech.edu/users/anima/). I received my Ph.D. in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Yorie Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html). I earned my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Yilin Mo](https://yilinmo.github.io/).
+Hi, I'm a [Wally Baer and Jeri Weiss Postdoctoral Fellow](https://www.cms.caltech.edu/academics/honors#wally-baer-and-jeri-weiss-postdoctoral-fellowship-in-ist) in Computing and Mathematical Sciences at [California Institute of Technology](https://www.caltech.edu/), working with Prof. [Anima Anandkumar](https://tensorlab.cms.caltech.edu/users/anima/). I received my Ph.D. in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Yorie Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html). I earned my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Yilin Mo](https://yilinmo.github.io/).
 
 My research interests lie at the intersection of control theory and scientific machine learning, with a focus on safety-critical control, physics-informed learning, stochastic systems and robotics.
 
