@@ -8,6 +8,6 @@ nav_order: 7
 
 Faculty Search Council, CMU ECE (2024-2025)
 
-Conference Reviewer: CDC, ACC, NECSYS, AAAI, ICLR, NeurIPS, RSS, L4DC, ECC
+Conference Reviewer: CDC, ACC, ICLR, NeurIPS, AAAI, RSS, L4DC, ECC, IFAC, NECSYS
 
-Journal Reviewer: TAC, RICO, CONES
+Journal Reviewer: TAC, Automatica, RICO, CONES
